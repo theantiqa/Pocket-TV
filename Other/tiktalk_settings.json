@@ -1,5 +1,4 @@
 {
-  "TV_Data": {
     "Settings": {
       "Admob_Settings": {
         "is_override" : false,
@@ -308,5 +307,4 @@
         "linkedin_page_url": ""
       }
     }
-  }
 }

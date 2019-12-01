@@ -75,11 +75,6 @@
           "is_legal_banner_ads": true
         },
         "custom_ads": {
-          "ads_title": "Title",
-          "ads_description": "This is Description",
-          "ads_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8KNtmyuncAepg8FJ-LicJY3gW-MQtJ_NtD375W8maURgQoWBxQ&s",
-          "ads_app_id_android": "211764508",
-          "ads_redirect_url" : "https://play.google.com/store/apps/details?id=com.pocketiptv",
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -88,7 +83,21 @@
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": true
+          "is_legal_banner_ads": true,
+          "ads_list" :
+          [
+            {
+              "id" : 1,
+              "title" : "Google Pay Earn Money",
+              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
+              "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
+              "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+              "redirect_url" : "https://gplinks.in/IoijtsbK",
+              "background_color" : "#ffffff",
+              "text_title_color" : "#666666",
+              "text_description_color" : "#666666"
+            }
+          ]
         }
       },
       "App_Update_Information":

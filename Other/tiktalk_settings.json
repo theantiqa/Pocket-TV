@@ -208,10 +208,10 @@
         "is_rate_app" : false,
         "app_name" : "app_tic_call",
         "server_address" : "demo.cloudwebrtc.com",
-        "only_fake_call" : true,
+        "callType" : "both",
         "connection_delay" : 15,
         "init_delay" : 20,
-        "fake_call_list": ["hejXc_FSYb8","hejXc_FSYb8"]
+        "fake_call_list": ["qTwpLD9ncEM","wxAMIOo-WHI"]
       },
 
       "More_Apps":

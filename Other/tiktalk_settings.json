@@ -79,6 +79,10 @@
               "banner_bg_color" : "0xffffffff",
               "footer_bg_color" : "0xff666666",
               "footer_button_color" : "0xff666666",
+              "go_button_text" : "GO",
+              "icon_bg_color" : "0xff000000",
+              "go_button_bg_color" : "0xffff0000",
+              "go_button_text_color" : "0xffffffff",
               "ratings": 4.5,
               "ratings_count":"12,300"
             }

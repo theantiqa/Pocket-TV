@@ -102,8 +102,7 @@
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 100
         },
-        "custom_ads" :
-        {
+        "custom_ads" : {
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -132,6 +131,8 @@
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_illegal_interstitial_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,

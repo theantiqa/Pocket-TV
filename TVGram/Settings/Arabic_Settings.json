@@ -270,7 +270,7 @@
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v7.apk",
         "is_system_browser":true,
 
-        "updated_version_code":7,
+        "updated_version_code":1,
 
         "filename":"Pocket_TV.apk",
         "title":"App Update",
@@ -474,8 +474,8 @@
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 7.0.0"
+        "registration_detail": "Arabic TV® 2017",
+        "version_detail": "version : 1.0.0"
       },
 
       "Live_Support":
@@ -504,8 +504,8 @@
 
         "cc_email_id": "",
         "email_id": "rutu.inc@gmail.com",
-        "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
-        "email_subject": "Feedback on Pocket TV",
+        "email_message": "Hi,\n\n\nYour Feedback Arabic Live TV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Arabic Live TV",
 
         "feedback_title": "Send Feedback",
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."

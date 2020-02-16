@@ -470,7 +470,7 @@
         "is_system_browser": false,
         "playlist_web_search": "",
         "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Data/Spainish_Live.json",
-        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Channels.rutu"
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Common/World_Live.json"
       },
 
       "About_App":

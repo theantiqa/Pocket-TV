@@ -338,10 +338,13 @@
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
+        "class_name_all" : "com.allinone.purchase.MainActivity",
         "class_name" : "com.purchase.core.MainActivity",
+        "purchase_package_id_all" : "com.allinone.purchase",
         "purchase_package_id" : "com.purchase.core",
         "purchase_package_id1" : "com.myjloo.indialivetv",
-        "download_url" : "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/All-In-One_Purcahse/APK/All%20In%20One%20Purchase.apk",
+        "download_url_all" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/All%20In%20One%20Purchase.apk",
+        "download_url" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/Purchase%20Core.apk",
         "filename" : "Purchase_Core.apk",
         "purchase_title": "Purchase Core",
         "purchase_message": "If you want to purchase then you have to install Purchase App.\nand then try again to purchase from here once again.",

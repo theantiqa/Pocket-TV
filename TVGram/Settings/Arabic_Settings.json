@@ -327,7 +327,7 @@
 
         "updated_version_code":1,
 
-        "filename":"Pocket_IPTV.apk",
+        "filename":"Arabic_Live_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
         "log_message":"- Now become more powerfull IPTV Player",
@@ -423,7 +423,7 @@
         "download_url1": "",
         "website_url" : "",
         "is_system_browser":true,
-        "filename": "RUTU_CHROMECAST.apk",
+        "filename": "CHROMECAST.apk",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },

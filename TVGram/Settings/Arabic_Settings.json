@@ -55,7 +55,7 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
+        "default_ads": "unity_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
@@ -93,9 +93,9 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 5
+          "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -123,7 +123,7 @@
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
           "is_ads": true,
-          "is_banner_ads": false,
+          "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
@@ -133,7 +133,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 5
+          "visibility_percentage": 50
         },
         "custom_ads" :
         {
@@ -209,10 +209,10 @@
 
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": false,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 50
         }
       },
       "App_Guide_Data":
@@ -320,9 +320,9 @@
         "is_popup_dialog": true,
         "is_update_require":true,
 
-        "package_id":"com.myjloo.indialivetv",
+        "package_id":"com.tvgram.arabiclivetv",
         "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.myjloo.indialivetv",
+        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.arabiclivetv",
         "is_system_browser":true,
 
         "updated_version_code":1,
@@ -342,7 +342,7 @@
         "class_name" : "com.purchase.core.MainActivity",
         "purchase_package_id_all" : "com.allinone.purchase",
         "purchase_package_id" : "com.purchase.core",
-        "purchase_package_id1" : "com.myjloo.indialivetv",
+        "purchase_package_id1" : "com.tvgram.arabiclivetv",
         "download_url_all" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/All%20In%20One%20Purchase.apk",
         "download_url_core" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/Purchase%20Core.apk",
         "download_url" : "",
@@ -466,7 +466,7 @@
       "Playlist_Detail":
       {
         "is_override" : false,
-        "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
+        "playlist_message": "Please contact your Arabic Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
         "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Data/Arabic_Live.json",
@@ -492,8 +492,8 @@
       {
         "is_override" : false,
         "is_rate_app" : true,
-        "package_id" : "com.myjloo.indialivetv",
-        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.myjloo.indialivetv",
+        "package_id" : "com.tvgram.arabiclivetv",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.arabiclivetv",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -501,16 +501,16 @@
       {
         "is_override" : false,
         "is_more_app" : false,
-        "developer_id" : "Pocket+IPTV+™",
-        "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
+        "developer_id" : "TVGram+™",
+        "more_app_url" : "https://play.google.com/store/apps/developer?id=TVGram+%E2%84%A2"
       },
 
       "Share_App":
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.myjloo.indialivetv",
-        "share_message_iptv": "Share iptv url : ",
+        "share_message_app": "Are you looking best Arabic Live TV App In which you can see Live TV. then you hurry up and download Arabic Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.arabiclivetv",
+        "share_message_iptv": "Share Arabic Live TV url : ",
         "share_message_link": "Share link url : "
       },
 
@@ -541,7 +541,7 @@
       "Live_Support":
       {
         "is_override" : false,
-        "is_live_support" : true,
+        "is_live_support" : false,
         "fb_messenger_uri": "fb-messenger://user/",
         "fb_messenger_id": "822625707789265",
         "is_system_browser": true,
@@ -563,7 +563,7 @@
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
+        "email_id": "tvgram.me@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Arabic Live TV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Arabic Live TV",
 
@@ -577,7 +577,7 @@
         "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
+        "email_id": "tvgram.me@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
@@ -588,7 +588,7 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com"
+        "email_id": "tvgram.me@gmail.com"
       },
 
       "Social_Support":

@@ -460,7 +460,7 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Arabic Live TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
+        "disclaimer_message": "Arabic Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.me@gmail.com"
       },
 
       "Playlist_Detail":

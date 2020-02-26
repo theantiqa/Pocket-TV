@@ -1,0 +1,114 @@
+{
+  "TV_Data": {
+    "App_List": {
+      "app_1": {
+          "id": 1,
+          "name": "Pocket IPTV - Free Live TV Player (PRO)",
+          "url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
+          "thumbnail_url": "https://apkdl.in/apkimage/RxqUEs3G8KTiHAv7ixVnrUXOunOIqvvl3rcYwnXYdQGO4WkdYe793DIhe5Ya2sye4K0",
+          "ratings": 4.5
+      },
+      "app_2": {
+          "id": 1,
+          "name": "App 2",
+          "url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
+          "thumbnail_url": "https://vignette.wikia.nocookie.net/logopedia/images/2/25/Youtubeicon.jpg/revision/latest/scale-to-width-down/340?cb=20181127033652",
+          "ratings": 4.5
+      },
+      "app_3": {
+          "id": 1,
+          "name": "App 3",
+          "url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
+          "thumbnail_url": "https://lh3.ggpht.com/eNYOraC9zc8Po9DFe41g1WzF-JSXqigWAM2IUWjeRHaJRb3JQbc34y9IvehplQE2uAAp",
+          "ratings": 4.5
+      },
+      "app_4": {
+          "id": 1,
+          "name": "App 4",
+          "url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
+          "thumbnail_url": "https://i.pinimg.com/originals/ae/4e/8d/ae4e8de1acf6cb2cd56f4f2a00514ce1.png",
+          "ratings": 4.5
+      }
+    },
+    "Channel_List": {
+      "channel_1": {
+        "id": 1,
+        "name": "LIVE TV",
+        "banner_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-saudi-arabia_748010.png",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-saudi-arabia_748010.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "name": "Guide #1 Live TV Online",
+            "description": "This is Description 1",
+            "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "name": "Guide #2 Live TV Online",
+            "description": "This is Description 2",
+            "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          },
+          "sub_3": {
+            "id": 3,
+            "name": "Guide #3 Live TV Online",
+            "description": "This is Description 3",
+            "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          },
+          "sub_4": {
+            "id": 4,
+            "name": "Guide #4 Live TV Online",
+            "description": "This is Description 4",
+            "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          },
+          "sub_5": {
+            "id": 5,
+            "name": "Guide #5 Live TV Online",
+            "description": "This is Description 5",
+            "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          }
+        }
+      },
+      "channel_2": {
+        "id": 2,
+        "name": "CIRCLE",
+        "description": "This is CIRCLE",
+        "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+      },
+      "channel_3": {
+        "id": 3,
+        "name": "TV FIRMA",
+        "description": "This is FIRMA",
+        "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+      },
+      "channel_4": {
+        "id": 4,
+        "name": "REPORTER",
+        "description": "This is REPORTER",
+        "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+      },
+      "channel_5": {
+        "id": 5,
+        "name": "ESCANER",
+        "description": "This is ESCANER",
+        "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+      },
+      "channel_6": {
+        "id": 6,
+        "name": "TV RACER",
+        "description": "This is RACER",
+        "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+      }
+    }
+  }
+}

@@ -212,13 +212,11 @@
         "is_override" : false,
         "is_rate_app" : false,
         "app_name" : "app_tic_call",
-        "server_address" : "demo.cloudwebrtc.com",
-        "port" : 4442,
-        "ice_servers" : "stun:stun.l.google.com:19302",
-        "ws_url" : "ws://demo.cloudwebrtc.com:4442",
+        "server_address" : "192.168.1.129",
+        "port" : 8086,
         "call_type" : "both",
-        "connection_delay" : 15,
-        "init_delay" : 20,
+        "min_dialing_time" : 1,
+        "call_timeout" : 20,
         "fake_call_list": ["tCAt8eEKPDc","tCAt8eEKPDc"]
       },
 

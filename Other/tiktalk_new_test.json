@@ -102,7 +102,7 @@
         "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
         "is_system_browser":true,
 
-        "updated_version_code":8,
+        "updated_version_code":1,
 
         "filename":"tiktalk.apk",
         "title":"App Update",
@@ -188,7 +188,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Pocket TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Pocket TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Tiktalk is about to random calling app."
       },
 
       "Exit_Dialog":

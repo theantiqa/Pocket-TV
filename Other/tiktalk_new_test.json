@@ -201,7 +201,7 @@
       "Rate_App":
       {
         "is_override" : false,
-        "is_rate_app" : false,
+        "is_rate_app" : true,
         "package_id" : "com.rutu.master.pockettv",
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.rutu.master.pockettv",
         "rate_message" : "Please Rate us and promote us."
@@ -210,7 +210,6 @@
       "App_Settings":
       {
         "is_override" : false,
-        "is_rate_app" : false,
         "app_name" : "app_tic_call",
         "server_address" : "192.168.1.129",
         "port" : 8086,
@@ -223,7 +222,7 @@
       "More_Apps":
       {
         "is_override" : false,
-        "is_more_app" : false,
+        "is_more_app" : true,
         "developer_id" : "Pocket+TV+™",
         "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
       },
@@ -240,7 +239,7 @@
       "Official_Website":
       {
         "is_override" : false,
-        "is_official_website" : false,
+        "is_official_website" : true,
         "is_system_browser": false,
         "official_website": "http://www.pocketiptv.com"
       },
@@ -248,7 +247,7 @@
       "Privacy_Policy":
       {
         "is_override" : false,
-        "is_privacy_policy" : false,
+        "is_privacy_policy" : true,
         "is_system_browser": true,
         "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
       },

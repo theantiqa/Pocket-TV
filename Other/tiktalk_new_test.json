@@ -254,6 +254,14 @@
         "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
       },
 
+      "Terms_Of_Use":
+      {
+        "is_override" : false,
+        "is_terms_of_use" : true,
+        "is_system_browser": true,
+        "terms_of_use": "http://www.pocketiptv.com/privacy-policy"
+      },
+
       "Splash_Screen":
       {
         "is_override" : false,

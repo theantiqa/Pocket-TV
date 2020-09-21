@@ -211,7 +211,7 @@
       {
         "is_override" : false,
         "app_name" : "app_tic_call",
-        "server_address" : "192.168.1.129",
+        "server_address" : "192.168.1.107",
         "port" : 8086,
         "call_type" : "both",
         "min_dialing_time" : 1,

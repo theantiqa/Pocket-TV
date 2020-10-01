@@ -1,0 +1,371 @@
+{
+  "Settings": {
+    "Admob_Settings": {
+      "ads_loading_text": "Ads will loading...",
+      "default_ads": "startapp_ads",
+      "final_default_ads":"unity_ads",
+      "is_banner_ads": true,
+      "is_interstitial_ads": true,
+      "is_stream_player_banner_ads": true,
+      "facebook_ads": {
+        "ads_app_id_ios": "353151288785830",
+        "ads_app_id_android": "353151288785830",
+        "banner_ad_unit_id_ios": "353151288785830_353151742119118",
+        "banner_ad_unit_id_android": "353151288785830_353151742119118",
+        "interstitial_ad_unit_id_ios": "353151288785830_353152322119060",
+        "interstitial_ad_unit_id_android": "353151288785830_353152322119060",
+        "is_ads": false,
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "is_initially_ads_container_visible":true,
+        "visibility_percentage": 0,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true
+      },
+      "google_ads": {
+        "ads_app_id_ios": "ca-app-pub-3940256099942544~1458002511",
+        "ads_app_id_android": "ca-app-pub-3940256099942544~3347511713",
+        "banner_ad_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+        "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_ad_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
+        "interstitial_ad_unit_id_android": "ca-app-pub-3940256099942544/1033173712",
+        "is_ads": true,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
+        "visibility_percentage": 10,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true
+      },
+      "startapp_ads": {
+        "ads_app_id_ios": "201571398",
+        "ads_app_id_android": "211764508",
+        "is_ads": true,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
+        "visibility_percentage": 5,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true
+      },
+      "custom_ads": {
+        "is_ads": true,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_initially_ads_container_visible":true,
+        "visibility_percentage": 5,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": true,
+        "ads_list" :
+        [
+          {
+            "id" : 1,
+            "privacy_title" : "My Ads",
+            "title" : "Google Pay Earn Money",
+            "sub_title" : "Google Pay Earn Money",
+            "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
+            "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
+            "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+            "redirect_url" : "https://gplinks.in/IoijtsbK",
+            "privacy_url" : "https://gplinks.in/IoijtsbK",
+            "banner_bg_color" : "0xffffffff",
+            "footer_bg_color" : "0xff666666",
+            "footer_button_color" : "0xff666666",
+            "go_button_text" : "GO",
+            "icon_bg_color" : "0xff000000",
+            "go_button_bg_color" : "0xffff0000",
+            "go_button_text_color" : "0xffffffff",
+            "ratings": 4.5,
+            "ratings_count":"12,300"
+          }
+        ]
+      }
+    },
+    "App_Update_Information":
+    {
+      "is_override" : false,
+
+      "is_popup_dialog": true,
+      "is_update_require":true,
+
+      "package_id":"com.guidetv",
+      "download_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+      "website_url":"https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+
+      "updated_version_code":1,
+
+      "filename":"guidetv.apk",
+      "title":"App Update",
+      "default_message":"Your App is Up to date.",
+      "log_message":"- Now latest guidetv you have",
+      "downloading_message":"App Downloading",
+      "installing_message":"App Install"
+    },   
+    
+    "Disclaimer_App":
+    {
+      "is_disclaimer_app" : true,
+      "is_force_approved": true,
+      "disclaimer_title": "Disclaimer",
+      "disclaimer_message": "Guide TV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
+    },
+
+    "App_List_Ads":
+    {
+      "is_app_list_ads" : true,
+      "app_list":[
+        {
+          "id" : 1,
+          "is_ads_tag": true,
+          "app_title" : "Google Pay Earn Money",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "ratings": 4.5,
+          "ratings_count":"12,300"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 2",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "ratings": 4.5,
+          "ratings_count":"12,300"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 3",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "ratings": 4.5,
+          "ratings_count":"12,300"
+        },
+        {
+          "id" : 3,
+          "is_ads_tag": true,
+          "app_title" : "App 4",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "ratings": 4.5,
+          "ratings_count":"12,300"
+        }
+      ]
+    },
+
+    "Guide_Data":
+    {
+      "is_app_list_ads" : true,
+      "live_guide":[
+        {
+          "id" : 1,
+          "app_title" : "Guide # 1 Live TV Online",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "app_title" : "Guide # 2 Live TV Online",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "app_title" : "Guide # 3 Live TV Online",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 3,
+          "app_title" : "Guide # 4 Live TV Online",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 4,
+          "app_title" : "Guide # 4 Live TV Online",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 5,
+          "app_title" : "Guide # 5 Live TV Online",
+          "app_description" : "This is description"
+        }
+      ],
+      "circle_guide":{
+        "id" : 1,
+        "app_title" : "Circle",
+        "app_description" : "This is circle description"
+      },
+       "tu_firma_guide":{
+        "id" : 1,
+        "app_title" : "Tu Firma",
+        "app_description" : "This is Tu Firma description"
+      },
+       "reporter_guide":{
+        "id" : 1,
+        "app_title" : "Reporter",
+        "app_description" : "This is Reporter description"
+      },
+       "escanner_qr_guide":{
+        "id" : 1,
+        "app_title" : "EScanner QR",
+        "app_description" : "This is EScanner QR description"
+      },
+       "racer_guide":{
+        "id" : 1,
+        "app_title" : "Racer",
+        "app_description" : "This is Racer description"
+      },
+      "tv_channels":[
+        {
+          "id" : 1,
+          "is_ads_tag": true,
+          "app_title" : "Google Pay Earn Money",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 2",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 3",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 3,
+          "is_ads_tag": true,
+          "app_title" : "App 4",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        }
+      ],
+      "news_channels":[
+        {
+          "id" : 1,
+          "is_ads_tag": true,
+          "app_title" : "Google Pay Earn Money",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 2",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 2,
+          "is_ads_tag": true,
+          "app_title" : "App 3",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        },
+        {
+          "id" : 3,
+          "is_ads_tag": true,
+          "app_title" : "App 4",
+          "app_logo" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+          "app_url" : "https://gplinks.in/IoijtsbK",
+          "app_description" : "This is description"
+        }
+      ]
+    },
+
+    "About_App":
+    {
+      "is_about_app" : true,
+      "about_title": "About",
+      "about_message": "Guide TV is about to guide tv which contain instruction about live tv."
+    },
+
+    "Exit_Dialog":
+    {
+      "exit_title": "Exit",
+      "exit_message": "Do you want to exit from App?"
+    },
+
+    "Rate_App":
+    {
+      "is_rate_app" : true,
+      "is_ads_tag": true,
+      "package_id" : "com.guide.tv",
+      "rate_app_url" : "https://play.google.com/store/apps/details?id=com.guide.tv",
+      "rate_message" : "Please Rate us and promote us."
+    },
+
+    "More_Apps":
+    {
+      "is_more_app" : true,
+      "is_ads_tag": true,
+      "developer_id" : "Pocket+TV+™",
+      "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
+    },
+
+    "Share_App":
+    {
+      "is_share_app" : true,
+      "share_message_app": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/PockeTV-Master/APKS/app-release-v8.apk",
+    },
+
+    "Official_Website":
+    {
+      "is_official_website" : true,
+      "official_website": "http://www.pocketiptv.com"
+    },
+
+    "Privacy_Policy":
+    {
+      "is_privacy_policy" : true,
+      "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
+    },
+
+    "Terms_Of_Use":
+    {
+      "is_terms_of_use" : true,
+      "terms_of_use": "http://www.pocketiptv.com/privacy-policy"
+    },
+
+    "Splash_Screen":
+    {
+      "registration_detail1": "",
+      "registration_detail": "Guide TV® 2017",
+      "version_detail": "version : 8.0.0"
+    },
+
+    "Social_Support":
+    {
+      "is_social" : true,
+      "social_title" : "Social",
+      "social_message" : "Like and share post in social media.",
+      "facebook_page_url": "fb://page/822625707789265",
+      "facebook_url": "https://www.facebook.com/822625707789265",
+      "instagram_url": "",
+      "telegram_url": "https://t.me/joinchat/AAAAAEaGtlWVJGqn1l5RGw",
+      "twitter_url": "https://www.twitter.com/pockettv",
+      "youtube_url": "https://www.youtube.com/channel/UCUJZ5ViT8Pf554apqwwjFEg",
+      "google_plus_url": "",
+      "linkedin_url": "",
+      "linkedin_page_url": ""
+    }
+  }
+}

@@ -40,37 +40,42 @@
           "sub_1": {
             "id": 1,
             "name": "Guide #1 Live TV Online",
-            "description": "This is Description 1",
+            "description": "An expository essay is one whose chief aim is to present information or to explain something. To expound is to set forth in detail, so a reader will learn some facts about a given subject. However, no essay is merely a set of facts. Behind all the details lies an attitude",
             "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
           },
           "sub_2": {
             "id": 2,
             "name": "Guide #2 Live TV Online",
             "description": "This is Description 2",
             "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "video_url": ""
           },
           "sub_3": {
             "id": 3,
             "name": "Guide #3 Live TV Online",
-            "description": "This is Description 3",
+            "description": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes, along with exposition, argumentation, and narration",
             "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "video_url": ""
           },
           "sub_4": {
             "id": 4,
             "name": "Guide #4 Live TV Online",
             "description": "This is Description 4",
             "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
           },
           "sub_5": {
             "id": 5,
             "name": "Guide #5 Live TV Online",
-            "description": "This is Description 5",
+            "description": "Description is the fiction-writing mode for transmitting a mental image of the particulars of a story. Together with dialogue, narration, exposition, and summarization, description is one of the most widely recognized of the fiction-writing modes. As stated in Writing from A to Z, edited by Kirk Polking, description is more than the amassing of details",
             "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+            "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
           }
         }
       },
@@ -79,35 +84,40 @@
         "name": "CIRCLE",
         "description": "This is CIRCLE",
         "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "channel_3": {
         "id": 3,
         "name": "TV FIRMA",
         "description": "This is FIRMA",
         "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "channel_4": {
         "id": 4,
         "name": "REPORTER",
         "description": "This is REPORTER",
         "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "channel_5": {
         "id": 5,
         "name": "ESCANER",
         "description": "This is ESCANER",
         "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       },
       "channel_6": {
         "id": 6,
         "name": "TV RACER",
         "description": "This is RACER",
         "banner_url": "https://i.imgur.com/7Bx66K7.jpg",
-        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+        "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg",
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
       }
     }
   }

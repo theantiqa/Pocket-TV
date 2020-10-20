@@ -104,7 +104,7 @@
 
         "updated_version_code":1,
 
-        "filename":"tiktalk.apk",
+        "filename":"livetalk.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
         "log_message":"- Now latest tiktalk you have",
@@ -253,7 +253,7 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
+        "privacy_policy": "https://sites.google.com/view/livetalk-llc/privacy-policy"
       },
 
       "Terms_Of_Use":
@@ -261,15 +261,15 @@
         "is_override" : false,
         "is_terms_of_use" : true,
         "is_system_browser": true,
-        "terms_of_use": "http://www.pocketiptv.com/privacy-policy"
+        "terms_of_use": "https://sites.google.com/view/livetalk-llc/tc"
       },
 
       "Splash_Screen":
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Pocket TV® 2017",
-        "version_detail": "version : 8.0.0"
+        "registration_detail": "LiveTalk LLC.® 2020",
+        "version_detail": "version : 1.0.0"
       },
 
       "Live_Support":
@@ -316,7 +316,7 @@
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "rutu.inc@gmail.com",
+        "email_id": "livetalk.llc@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Pocket TV",
 
@@ -330,7 +330,7 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "rutu.inc@gmail.com"
+        "email_id": "livetalk.llc@gmail.com"
       },
 
       "Social_Support":

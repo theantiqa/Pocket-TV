@@ -199,6 +199,19 @@
         "is_error_report": true,
         "cc_email_id": "",
         "email_id": "livetalk.llc@gmail.com"
-      }
+      },
+      "Feedback_Support":
+      {
+        "is_override" : false,
+        "is_feedback" : true,
+
+        "cc_email_id": "",
+        "email_id": "livetalk.llc@gmail.com",
+        "email_message": "Hi,\n\n\nYour Feedback LiveTalk Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Brazil Live TV",
+
+        "feedback_title": "Send Feedback",
+        "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
+      },
     }
 }
